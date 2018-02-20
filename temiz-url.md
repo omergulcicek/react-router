@@ -23,7 +23,7 @@ render((
 
 Şimdi uygulamanızı kaydedin ve değişikliği inceleyin, artık temiz url'e sahipsiniz.
 
-<h2>Sunucunuzu Yapılandırma<h2>
+<h2>Sunucunuzu Yapılandırma</h2>
 
 Sunucunuzun URL'i ne olursa olsun uygulamanızın açılması gerekiyor, çünkü uygulamanız tarayıcıda URL'i yönlendiriyor. Mevcut sunucumuz URL'i nasıl işleyeceğini bilmiyor.
 
