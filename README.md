@@ -38,12 +38,16 @@ React Router dokümanına başlamadan önce <a href="https://github.com/omergulc
 
 <h2>Gelişmiş Kılavuzlar</h2>
 
-- <a href="https://omergulcicek.github.io/reactjs/browser-router">BrowserRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/hash-router">HashRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/link">Link</a>
-- <a href="https://omergulcicek.github.io/reactjs/nav-link">NavLink</a>
-- <a href="https://omergulcicek.github.io/reactjs/memory-router">MemoryRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/redirect">Redirect </a>
+- <a href="https://omergulcicek.github.io/react-router/browser-router">BrowserRouter</a>
+- <a href="https://omergulcicek.github.io/react-router/hash-router">HashRouter</a>
+- <a href="https://omergulcicek.github.io/react-router/link">Link</a>
+- <a href="https://omergulcicek.github.io/react-router/nav-link">NavLink</a>
+- <a href="https://omergulcicek.github.io/react-router/memory-router">MemoryRouter</a>
+- <a href="https://omergulcicek.github.io/react-router/redirect">Redirect</a>
+- <a href="https://omergulcicek.github.io/react-router/route">Route</a>
+- <a href="https://omergulcicek.github.io/react-router/router">Router</a>
+- <a href="https://omergulcicek.github.io/react-router/static-router">Static Router</a>
+- <a href="https://omergulcicek.github.io/react-router/switch">Switch</a>
 
 <h2>Uygulamalı Eğitim</h2>
 
