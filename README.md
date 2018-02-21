@@ -8,7 +8,7 @@
 
 <a href="https://github.com/reactjs/react-router-tutorial">React Router</a> dokümantasyonunun Türkçe'ye uyarlanmış halidir.
 
-Gelişmiş kılavuzdaki componentler ve uygulamalı eğitim dokümanı <a href="https://reacttraining.com/react-router/">React Training</a> sitesinden uyarılmıştır.
+Gelişmiş kılavuzdaki componentler ve uygulamalı eğitim dokümanı <a href="https://reacttraining.com/react-router/">React Training</a> sitesinden uyarlanmıştır.
 
 Birebir çeviri değildir; ekleme ve düzenlemeler yapılmıştır.
 
