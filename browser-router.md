@@ -69,4 +69,4 @@ Bir adet child element render eder.
 <BrowserRouter keyLength={12}/>
 ```
 
-<a href="https://omergulcicek.github.io/reactjs/hash-router">Sıradaki Gelişmiş Kılavuz: HashRouter</a>
+<a href="https://omergulcicek.github.io/react-router/hash-router">Sıradaki Gelişmiş Kılavuz: HashRouter</a>
