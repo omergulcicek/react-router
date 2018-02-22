@@ -36,8 +36,8 @@ import {
 } from 'react-router-dom'
 ```
 
-<i>Componentlerin detaylarına ilerleyen sayfalarda girilecektir ve uygulamalı olarak açıklanacaktır.
+<i>Componentlerin detaylarına ilerleyen sayfalarda girilecektir ve uygulamalı olarak açıklanacaktır.</i>
 
-Kurulumu tamamladıktan sonra hızlı başlangı bölümünden okumaya devam edebilirsiniz. Ardından her component ayrıntılı olarak anlatılacak ve örnekler ile uygulamalı eğitime geçilecektir.</i>
+<i>Kurulumu tamamladıktan sonra hızlı başlangı bölümünden okumaya devam edebilirsiniz. Ardından her component ayrıntılı olarak anlatılacak ve örnekler ile uygulamalı eğitime geçilecektir.</i>
 
 <a href="https://omergulcicek.github.io/react-router/route-render-etmek">İlk Konu: Route Render Etmek</a>
