@@ -36,12 +36,12 @@ Bir obje aşağıdaki özelliklerden herhangi birine sahip olabilir:
 * `state`: State'in bulunduğu yere devam etmesi.
 
 ```jsx
-<Link to={{
+<Link to={-{
   pathname: '/courses',
   search: '?sort=name',
   hash: '#the-hash',
   state: { fromDashboard: true }
-}} />
+}-} />
 ```
 
 <h3>replace: bool</h3>
