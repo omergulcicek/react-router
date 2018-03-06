@@ -76,4 +76,4 @@ render((
 
 <a href="http://localhost:8080/#/about">http://localhost:8080/#/about</a> ve <a href="http://localhost:8080/#/repos">http://localhost:8080/#/repos</a> linklerini kontrol edin.
 
-<a href="https://omergulcicek.github.io/react-router/link-ile-gezinmek">Sıradaki Eğitim: Link ile Gezinmek</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/link-ile-gezinmek">Sıradaki Eğitim: Link ile Gezinmek</a>

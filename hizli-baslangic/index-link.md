@@ -45,4 +45,4 @@ Unutmayın, `NavLink` de, tüm props alanlarımızı `{...spread}` syntaxı ile 
 <li><NavLink to="/" onlyActiveOnIndex={true}>Home</NavLink></li>
 ```
 
-<a href="https://omergulcicek.github.io/react-router/temiz-url">Sıradaki Eğitim: Temiz URL</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/temiz-url">Sıradaki Eğitim: Temiz URL</a>

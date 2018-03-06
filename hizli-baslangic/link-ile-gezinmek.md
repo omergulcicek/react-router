@@ -28,4 +28,4 @@ export default React.createClass({
 
 <i>`Link` componentine click yaptığımız anda `to=""` parametresinde yazan kısmı sayfa linkine ekler. Fakat sadece linki değiştirir, ekranda o linkteki componentlerin yüklenmesi işlemini ileride `Route` componentleri yardımı ile yapacağız.</i>
 
-<a href="https://omergulcicek.github.io/react-router/ic-ice-gecmis-routelar">Sıradaki Eğitim: İç İçe Geçmiş Routelar</a> 
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/ic-ice-gecmis-routelar">Sıradaki Eğitim: İç İçe Geçmiş Routelar</a> 

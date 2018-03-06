@@ -48,4 +48,4 @@ Sunucunuz çalışıyorsa durdurun ve sonra tekrar `npm start` komutu ile çalı
 
 <i>Konu anlatımları sonlanmıştır. Bu aşamadan sonra Gelişmiş Kılavuzlar konularına geçiş yapılacaktır.</i>
 
-<a href="https://omergulcicek.github.io/react-router/browser-router">Sıradaki Gelişmiş Kılavuz: BrowserRouter</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/browser-router">Sıradaki Gelişmiş Kılavuz: BrowserRouter</a>

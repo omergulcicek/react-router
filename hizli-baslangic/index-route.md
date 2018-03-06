@@ -59,4 +59,4 @@ render((
 
 Routelar kafanızı karıştırmış olabilir ama aslında oldukça basit. `IndexRoute`u, bir web sayfası `/` konumundayken `index.html`i açması gibi düşünün.
 
-<a href="https://omergulcicek.github.io/react-router/index-link">Sıradaki Eğitim: Index Link</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/index-link">Sıradaki Eğitim: Index Link</a>

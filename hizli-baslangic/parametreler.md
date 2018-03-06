@@ -82,4 +82,4 @@ export default React.createClass({
 Şimdi bağlarınızı test edin. Routetaki `path` parametresinin değeri componentte özellik adı olur. Hem `repoName` hem de
 `userName`, componentinizin `this.props.params` içerisinde bulunabilir. Kendinize ve başkalarına yardımcı olabilmek adına muhtemelen sonradan bazı props tipleri eklemeniz gerekecek.
 
-<a href="https://omergulcicek.github.io/react-router/daha-fazla-nesting">Sıradaki Eğitim: Daha Fazla Nesting</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/daha-fazla-nesting">Sıradaki Eğitim: Daha Fazla Nesting</a>

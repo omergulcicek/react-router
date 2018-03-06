@@ -105,4 +105,4 @@ React Router'ın gerçek gücü budur, her route geliştirilebilir. Uygulamalar 
 
 `About` route'unu `App` dışına taşırsanız ne olur? Test edebilirsiniz.
 
-<a href="https://omergulcicek.github.io/react-router/aktif-linkler">Sıradaki Eğitim: Aktif Linkler</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/aktif-linkler">Sıradaki Eğitim: Aktif Linkler</a>

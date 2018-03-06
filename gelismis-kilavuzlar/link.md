@@ -68,4 +68,4 @@ const refCallback = node => { }
 
 Ayrıca `<a>` tagında olduğu gibi, örneğin bir title, id, className vb. olmak üzere parametrelere props olarak geçebiliriz.
 
-<a href="https://omergulcicek.github.io/react-router/nav-link">Sıradaki Gelişmiş Kılavuz: NavLink</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/nav-link">Sıradaki Gelişmiş Kılavuz: NavLink</a>

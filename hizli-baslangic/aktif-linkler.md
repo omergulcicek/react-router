@@ -86,4 +86,4 @@ import NavLink from './NavLink'
 Daha kısa, daha anlaşılır ve daha temiz.
 </i>
 
-<a href="https://omergulcicek.github.io/react-router/parametreler">Sıradaki Eğitim: Parametreler</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/parametreler">Sıradaki Eğitim: Parametreler</a>

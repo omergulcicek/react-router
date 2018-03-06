@@ -56,4 +56,4 @@ Varsayılan değer `slash`dır (`#/`).
 
 Bir adet child element render eder.
 
-<a href="https://omergulcicek.github.io/react-router/link">Sıradaki Gelişmiş Kılavuz: Link</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/link">Sıradaki Gelişmiş Kılavuz: Link</a>

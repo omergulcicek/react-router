@@ -40,4 +40,4 @@ import {
 
 <i>Kurulumu tamamladıktan sonra hızlı başlangı bölümünden okumaya devam edebilirsiniz. Ardından her component ayrıntılı olarak anlatılacak ve örnekler ile uygulamalı eğitime geçilecektir.</i>
 
-<a href="https://omergulcicek.github.io/react-router/route-render-etmek">İlk Konu: Route Render Etmek</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/route-render-etmek">İlk Konu: Route Render Etmek</a>

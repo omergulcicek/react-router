@@ -39,4 +39,4 @@ import NavLink from './NavLink'
 // ...
 ```
 
-<a href="https://omergulcicek.github.io/react-router/index-route">Sıradaki Eğitim: Index Route</a>
+<a href="https://omergulcicek.github.io/react-router/hizli-baslangic/index-route">Sıradaki Eğitim: Index Route</a>

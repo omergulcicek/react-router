@@ -1,14 +1,8 @@
-<p align="center">
-<img src="https://omergulcicek.com/img/github/router.png" alt="React Router - Türkçe Dokümantasyon" height="150">
-</p>
-
 <h1 align="center">React Router - Türkçe Dokümantasyon</h1>
 
 <h3><a href="https://omergulcicek.github.io/react-router/">omergulcicek.github.io/react-router</a></h3>
 
 <a href="https://github.com/reactjs/react-router-tutorial">React Router</a> dokümantasyonunun Türkçe'ye uyarlanmış halidir.
-
-Gelişmiş kılavuzdaki componentler ve uygulamalı eğitim dokümanı <a href="https://reacttraining.com/react-router/">React Training</a> sitesinden uyarlanmıştır.
 
 Birebir çeviri değildir; ekleme ve düzenlemeler yapılmıştır.
 
@@ -22,38 +16,34 @@ React Router dokümanına başlamadan önce <a href="https://github.com/omergulc
 
 <h2>Kurulum</h2>
 
-- <a href="https://omergulcicek.github.io/react-router/react-router-kurulumu">React Router Kurulumu</a>
+- <a href="https://omergulcicek.github.io/react-router/kurulum/react-router-kurulumu">React Router Kurulumu</a>
 
 <h2>Hızlı Başlangıç</h2>
 
-- <a href="https://omergulcicek.github.io/react-router/route-render-etmek">Route Render Etmek</a>
-- <a href="https://omergulcicek.github.io/react-router/link-ile-gezinmek">Link ile Gezinmek</a>
-- <a href="https://omergulcicek.github.io/react-router/ic-ice-gecmis-routelar">İç İçe Geçmiş Routelar</a>
-- <a href="https://omergulcicek.github.io/react-router/aktif-linkler">Aktif Linkler</a>
-- <a href="https://omergulcicek.github.io/react-router/parametreler">Parametreler</a>
-- <a href="https://omergulcicek.github.io/react-router/daha-fazla-nesting">Daha Fazla Nesting</a>
-- <a href="https://omergulcicek.github.io/react-router/index-route">Index Route</a>
-- <a href="https://omergulcicek.github.io/react-router/index-link">Index Link</a>
-- <a href="https://omergulcicek.github.io/react-router/temiz-url">Temiz URL</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/route-render-etmek">Route Render Etmek</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/link-ile-gezinmek">Link ile Gezinmek</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/ic-ice-gecmis-routelar">İç İçe Geçmiş Routelar</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/aktif-linkler">Aktif Linkler</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/parametreler">Parametreler</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/daha-fazla-nesting">Daha Fazla Nesting</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/index-route">Index Route</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/index-link">Index Link</a>
+- <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/temiz-url">Temiz URL</a>
 
 <h2>Gelişmiş Kılavuzlar</h2>
 
-- <a href="https://omergulcicek.github.io/react-router/browser-router">BrowserRouter</a>
-- <a href="https://omergulcicek.github.io/react-router/hash-router">HashRouter</a>
-- <a href="https://omergulcicek.github.io/react-router/link">Link</a>
-- <a href="https://omergulcicek.github.io/react-router/nav-link">NavLink</a>
-- <a href="https://omergulcicek.github.io/react-router/memory-router">MemoryRouter</a>
-- <a href="https://omergulcicek.github.io/react-router/redirect">Redirect</a>
-- <a href="https://omergulcicek.github.io/react-router/route">Route</a>
-- <a href="https://omergulcicek.github.io/react-router/router">Router</a>
-- <a href="https://omergulcicek.github.io/react-router/static-router">Static Router</a>
-- <a href="https://omergulcicek.github.io/react-router/switch">Switch</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/browser-router">BrowserRouter</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/hash-router">HashRouter</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/link">Link</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/nav-link">NavLink</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/memory-router">MemoryRouter</a>
+- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/redirect">Redirect </a>
 
 <h2>Uygulamalı Eğitim</h2>
 
-- <a href="https://omergulcicek.github.io/react-router/basit-router-ornegi">Basit Router Örneği</a>
-- <a href="https://omergulcicek.github.io/react-router/url-parametreleri">URL Parametreleri</a>
-- <a href="https://omergulcicek.github.io/react-router/yanlis-adres-404">Yanlış Adres (404)</a>
-- <a href="https://omergulcicek.github.io/react-router/belirsiz-adres">Belirsiz Adresler</a>
+- <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/basit-router-ornegi">Basit Router Örneği</a>
+- <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/url-parametreleri">URL Parametreleri</a>
+- <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/yanlis-adres-404">Yanlış Adres (404)</a>
+- <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/belirsiz-adres">Belirsiz Adresler</a>
 
 <i>Eklemeler yapılacaktır.</i>
