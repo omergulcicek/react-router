@@ -41,7 +41,7 @@ Bir obje aşağıdaki özelliklerden herhangi birine sahip olabilir:
   search: '?sort=name',
   hash: '#the-hash',
   state: { fromDashboard: true }
-}}/>
+}} />
 ```
 
 <h3>replace: bool</h3>
