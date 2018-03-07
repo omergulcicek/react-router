@@ -82,4 +82,4 @@ const oddEvent = (match, location) => {
 >Event 123</NavLink>
 ```
 
-<a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/memory-router">Sıradaki Gelişmiş Kılavuz: MemoryRouter</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/memory-router">Sıradaki Gelişmiş Kılavuz: MemoryRouter</a>
