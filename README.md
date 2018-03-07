@@ -32,12 +32,12 @@ React Router dokümanına başlamadan önce <a href="https://github.com/omergulc
 
 <h2>Gelişmiş Kılavuzlar</h2>
 
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/browser-router">BrowserRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/hash-router">HashRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/link">Link</a>
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/nav-link">NavLink</a>
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/memory-router">MemoryRouter</a>
-- <a href="https://omergulcicek.github.io/reactjs/gelismis-kilavuzlar/redirect">Redirect </a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/browser-router">Browser Router</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/hash-router">Hash Router</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/link">Link</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/nav-link">Nav Link</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/memory-router">Memory Router</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/redirect">Redirect </a>
 
 <h2>Uygulamalı Eğitim</h2>
 
