@@ -65,8 +65,4 @@ const supportsHistory = 'pushState' in window.history
 
 Bir adet child element render eder.
 
-```js
-<BrowserRouter keyLength={12}/>
-```
-
 <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/hash-router">Sıradaki Gelişmiş Kılavuz: HashRouter</a>
