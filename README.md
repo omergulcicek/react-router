@@ -40,7 +40,7 @@ React Router dokümanına başlamadan önce <a href="https://github.com/omergulc
 - <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/redirect">Redirect</a>
 - <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/route">Route</a>
 - <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/router">Router</a>
-- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/static-router">StaticRouter</a>
+- <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/static-router">Static Router</a>
 - <a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/switch">Switch</a>
 
 <h2>Uygulamalı Eğitim</h2>
