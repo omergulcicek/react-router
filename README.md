@@ -4,6 +4,8 @@
 
 <a href="https://github.com/reactjs/react-router-tutorial">React Router</a> dokümantasyonunun Türkçe'ye uyarlanmış halidir.
 
+Gelişmiş kılavuzlarda bulunan componentler için <a href="https://reacttraining.com/react-router/">React Training</a> dokümanından yararlanılmıştır.
+
 Birebir çeviri değildir; ekleme ve düzenlemeler yapılmıştır.
 
 Router, Route, history, hashHistory, path gibi yazılımsal kelimelerde daha kolay anlaşılması için çeviri yapılmamıştır.
