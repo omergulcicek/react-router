@@ -31,12 +31,14 @@ Yönlendirilecek URL'i temsil eder.
 Yönlendirilecek yeri temsil eder. `pathname`, regexp'in anladığı herhangi bir geçerli URL yolu olabilir.
 
 ```jsx
-<Redirect to={{
+<Redirect to={-{
   pathname: '/login',
   search: '?utm=your+face',
   state: { referrer: currentLocation }
-}}/>
+}-}/>
 ```
+
+<i>GitHub Pages süslü parantezden (`{`) iki tane yan yana koyulduğunda hata verdiği için araya tire (`-`) koydum, normalde kodda o tireleri yok sayın.</i>
 
 `state` objesi, yönlendirilmiş componentte `this.props.location.state` yoluyla erişilebilir. Bu yeni yönlendirme anahtarı (özel bir ad değil) daha sonra, `/login` yol adının işaret ettiği `Login` componentindeki `this.props.location.state.referrer` üzerinden erişilebilir.
 
