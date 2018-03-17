@@ -1,4 +1,4 @@
-<h1>BrowserRouter</h1>
+<h1>Browser Router</h1>
 
 UI'ızı URL ile senkronize tutmak için HTML5 history API'sini (<i>pushState, replaceState ve popstate eventi</i>) kullanan bir `<Router>`dır.
 
@@ -65,4 +65,4 @@ const supportsHistory = 'pushState' in window.history
 
 Bir adet child element render eder.
 
-<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/hash-router">Sıradaki Gelişmiş Kılavuz: HashRouter</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/hash-router">Sıradaki Gelişmiş Kılavuz: Hash Router</a>

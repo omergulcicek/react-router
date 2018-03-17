@@ -1,4 +1,4 @@
-<h1>HashRouter</h1>
+<h1>Hash Router</h1>
 
 UI'nızı URL ile senkronize tutmak için, hash bölümünü (<i>yani, window.location.hash</i>) kullanan bir `<Router>`dır.
 

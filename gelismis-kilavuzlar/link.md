@@ -44,6 +44,8 @@ Bir obje aşağıdaki özelliklerden herhangi birine sahip olabilir:
 }-} />
 ```
 
+<i>GitHub Pages süslü parantezden (`{`) iki tane yan yana koyulduğunda hata verdiği için araya tire (`-`) koydum, normalde kodda o tireleri yok sayın.</i>
+
 <h3>replace: bool</h3>
 
 `replace` parametresi `true` olduğunda bağlantıya tıklarsak, linke yeni bir konum eklemek yerine geçmiş linkteki geçerli konumun yerini alacaktır.
@@ -68,4 +70,4 @@ const refCallback = node => { }
 
 Ayrıca `<a>` tagında olduğu gibi, örneğin bir title, id, className vb. olmak üzere parametrelere props olarak geçebiliriz.
 
-<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/nav-link">Sıradaki Gelişmiş Kılavuz: NavLink</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/nav-link">Sıradaki Gelişmiş Kılavuz: Nav Link</a>

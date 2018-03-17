@@ -1,4 +1,4 @@
-<h1>NavLink</h1>
+<h1>Nav Link</h1>
 
 Geçerli URL ile eşleştiğinde, render edilmiş elemente css ekleyecek bir `<Link>` sürümüdür.
 
@@ -82,4 +82,4 @@ const oddEvent = (match, location) => {
 >Event 123</NavLink>
 ```
 
-<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/memory-router">Sıradaki Gelişmiş Kılavuz: MemoryRouter</a>
+<a href="https://omergulcicek.github.io/react-router/gelismis-kilavuzlar/memory-router">Sıradaki Gelişmiş Kılavuz: Memory Router</a>

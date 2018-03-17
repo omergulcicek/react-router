@@ -1,4 +1,4 @@
-<h1>MemoryRouter</h1>
+<h1>Memory Router</h1>
 
 URL'inizin geçmişini belleğinde tutan (adres çubuğunu okumayan veya yazmayan) bir `<Router>`dır. React Native gibi tarayıcı olmayan ortamlarda kullanışlıdır.
 
