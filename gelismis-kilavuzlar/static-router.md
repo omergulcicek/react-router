@@ -2,7 +2,7 @@
 
 Konumu hiçbir zaman değiştirmeyen bir `<Router>`dır. Bu, kullanıcı aslında etrafta tıklama yapmadığı sürece sunucu tarafı oluşturma senaryolarında yararlı olabilir, böylece konum aslında hiç değişmez. Aynı zamanda basit bir testte, yalnızca bir konumu takmanız ve render çıktısı üzerinde onaylamalar yapmanız gerektiğinde faydalıdır. Ayrıca, `<Redirect>` ler için 302 durum kodu ve diğer istekler için normal HTML gönderen bir örnek düğüm sunucusudur.
 
-```js
+```jsx
 import { createServer } from 'http'
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
@@ -38,7 +38,7 @@ createServer((req, res) => {
 
 Tüm konumlar için temel URL'dir. Düzgün olarak biçimlendirilmiş bir basename, bir eğik çizgi içermeli, ancak takip eden bir eğik çizgi olmamalıdır.
 
-```js
+```jsx
 <StaticRouter basename="/calendar">
   <Link to="/today"/> // <a href="/calendar/today"> şeklinde render edilecektir
 </StaticRouter>
@@ -48,7 +48,7 @@ Tüm konumlar için temel URL'dir. Düzgün olarak biçimlendirilmiş bir basena
 
 Sunucudan alınan URL, büyük olasılıkla bir düğüm sunucusunda req.url.
 
-```js
+```jsx
 <StaticRouter location={req.url}>
   <App/>
 </StaticRouter>
@@ -58,7 +58,7 @@ Sunucudan alınan URL, büyük olasılıkla bir düğüm sunucusunda req.url.
 
 `{ pathname, search, hash, state }` gibi bir konum objesi içerir.
 
-```js
+```jsx
 <StaticRouter location={req.url}>
   <App/>
 </StaticRouter>
@@ -68,7 +68,7 @@ Sunucudan alınan URL, büyük olasılıkla bir düğüm sunucusunda req.url.
 
 Düz bir JavaScript objesidir. Render sırasında, componentleri render etmek hakkında bilgi depolamak için objeye özellik ekleyebilir.
 
-```js
+```jsx
 <StaticRouter location={-{ pathname: '/bubblegum' }-}>
   <App/>
 </StaticRouter>
@@ -88,7 +88,7 @@ if(context.status === '404') {
 
 Bir adet child element render eder.
 
-```js
+```jsx
 <StaticRouter>
   <App/>
 </StaticRouter>
