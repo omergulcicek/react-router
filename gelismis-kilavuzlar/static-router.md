@@ -69,10 +69,12 @@ Sunucudan alınan URL, büyük olasılıkla bir düğüm sunucusunda req.url.
 Düz bir JavaScript objesidir. Render sırasında, componentleri render etmek hakkında bilgi depolamak için objeye özellik ekleyebilir.
 
 ```js
-<StaticRouter location={{ pathname: '/bubblegum' }}>
+<StaticRouter location={-{ pathname: '/bubblegum' }-}>
   <App/>
 </StaticRouter>
 ```
+
+<i>GitHub Pages süslü parantezden (`{`) iki tane yan yana koyulduğunda hata verdiği için araya tire (`-`) koydum, normalde kodda o tireleri yok sayın.</i>
 
 Bir `<Route>` eşleştiğinde, context objesini `staticContext` prop olarak oluşturduğu componente iletir. Render edildikten sonra, bu özellikler sunucunun yanıtını yapılandırmak için kullanılabilir.
 
