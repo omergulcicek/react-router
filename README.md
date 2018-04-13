@@ -54,5 +54,3 @@ React Router dokümanına başlamadan önce <a href="https://github.com/omergulc
 - <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/basit-router-ornegi">Basit Router Örneği</a>
 - <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/url-parametreleri">URL Parametreleri</a>
 - <a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/yanlis-adres-404">Yanlış Adres (404)</a>
-
-<i>Eklemeler yapılacaktır.</i>
