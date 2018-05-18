@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://omergulcicek.com/img/github/router.png" alt="React Router - Türkçe Doküman" height="150">
+<img src="https://omergulcicek.com/img/router.png" alt="React Router - Türkçe Doküman" height="100">
 </p>
 
-<h1 align="center">React Router - Türkçe Dokümantasyon</h1>
+<h1 align="center">React Router - Türkçe Doküman</h1>
 
 <h3><a href="https://omergulcicek.github.io/react-router/">omergulcicek.github.io/react-router</a></h3>
 
