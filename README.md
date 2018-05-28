@@ -18,7 +18,7 @@ Router, Route, history, hashHistory, path gibi yazılımsal kelimelerde daha kol
 
 Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
-React Router dokümanına başlamadan önce <a href="https://github.com/omergulcicek/reactjs">React Türkçe Dokümantasyon</a>unu tamamlamanızı tavsiye ederim.
+React Router dokümanına başlamadan önce <a href="https://github.com/omergulcicek/reactjs">React JS Türkçe Dokümanı</a>nı tamamlamanızı tavsiye ederim.
 
 <h2>Kurulum</h2>
 
