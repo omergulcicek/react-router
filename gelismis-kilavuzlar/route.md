@@ -67,7 +67,7 @@ const User = ({ match }) => {
 }
 ```
 
-Router, componenti kullandığınızda, verilen componentten yeni bir React elementi oluşturmak için `React.createElement`i kullanır. Component propsunda bir satıriçi fonksiyon olarak yazdıysanız, her render edilişinde yeni bir component oluşturursunuz demektir. Bu, mevcut componentin bağlantısını keser ve yalnızca varolan componenti güncelleştirmek yerine yeni component oluşturur. Satır içi render kullanırken, render veya child propsu kullanın (aşağıda).
+Router, componenti kullandığınızda, verilen componentten yeni bir React elementi oluşturmak için `React.createElement`i kullanır. Component propsunda bir satır içi fonksiyon olarak yazdıysanız, her render edilişinde yeni bir component oluşturursunuz demektir. Bu, mevcut componentin bağlantısını keser ve yalnızca varolan componenti güncelleştirmek yerine yeni component oluşturur. Satır içi render kullanırken, render veya child propsu kullanın (aşağıda).
 
 <h3>render: func</h3>
 
