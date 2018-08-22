@@ -38,6 +38,6 @@ import {
 
 <i>Componentlerin detaylarına ilerleyen sayfalarda girilecektir ve uygulamalı olarak açıklanacaktır.</i>
 
-<i>Kurulumu tamamladıktan sonra hızlı başlangı bölümünden okumaya devam edebilirsiniz. Ardından her component ayrıntılı olarak anlatılacak ve örnekler ile uygulamalı eğitime geçilecektir.</i>
+<i>Kurulumu tamamladıktan sonra hızlı başlangıç bölümünden okumaya devam edebilirsiniz. Ardından her component ayrıntılı olarak anlatılacak ve örnekler ile uygulamalı eğitime geçilecektir.</i>
 
 <a href="https://omergulcicek.github.io/react-router/hizli-baslangic/route-render-etmek">İlk Konu: Route Render Etmek</a>
