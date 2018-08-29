@@ -81,6 +81,4 @@ export default NoMatchExample;
 
 <a href="https://reacttraining.com/react-router/web/example/no-match">Kendi dokümanı</a> üzerinden kodu inceleyebilir ve nasıl çalıştığını test edebilirsiniz.
 
-<hr>
-
-<i>React Router dokümanı tamamlanmıştır.</i>
+<a href="https://omergulcicek.github.io/react-router/uygulamali-egitim/scroll-sorunun-cozumu">Sıradaki Eğitim: Scroll Sorunun Çözümü</a>
